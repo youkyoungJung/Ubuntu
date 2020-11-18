@@ -1,0 +1,4 @@
+ex2_1.c: In function ‘main’:
+ex2_1.c:8:3: warning: incompatible implicit declaration of built-in function ‘exit’ [enabled by default]
+   exit(1);
+   ^
